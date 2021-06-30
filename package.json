@@ -2,7 +2,7 @@
   "name": "@thetransportlab/ts-aviation",
   "version": "0.0.1",
   "description": "A library for retrieving various air travel data",
-  "main": "index.js",
+  "main": "build/index.js",
   "scripts": {
     "clean": "rimraf build/",
     "prebuild": "npm run clean",
