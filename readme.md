@@ -19,6 +19,14 @@ The following airports are supported at this time:
 - `LBA` (Leeds Bradford)
 - `STN` (Stansted)
 
+### Installation
+
+`yarn add @thetransportlab/ts-aviation`
+
+or
+
+`npm i @thetransportlab/ts-aviation`
+
 ### Example usage
 
 To retrieve data for an airport, use the following example:
